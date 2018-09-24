@@ -8,5 +8,5 @@
 * src: Python source file
 
 ### GUI Image
-![alt text](resources/Capture.png)
+![alt text](resources/Capture.PNG)
 *Video Image Courtesy: Andrew NG, deeplearning.ai, Coursera* 
